@@ -2,6 +2,8 @@
 
 The goal for this project is evaluate states and events in react components. This landing has two inputs, one for the name of the user,  and the other is for the password. If you guess the password it will show a secret yellow button.
 
+✨You can try this project [here!!](https://consuang-estados-componentes-eventos.netlify.app/) ✨
+
 
 ## Getting Started with Create React App
 
